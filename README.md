@@ -1,1 +1,1 @@
-# JetBrainsVueAliases-Config
+# JetBrainsVueAliases@Config
